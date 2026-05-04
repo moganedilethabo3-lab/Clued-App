@@ -98,7 +98,9 @@ It was used performs the following steps:
 </ul>
 <h1>Screenshots</h1>
 
-<h1>onclusion</h1>
+<h1>Conclusion</h1>
+Clued uses interactive quizzes with instant feedback to help users tell myths from real life hacks. It encourages critical thinking and better decision-making.
+
 
 <h1> References</h1>
 <i>Google. 2026. Gemini (AI assistant). [Software] Available at: https://ai.google.dev/ [Accessed 3 April 2026].</i>
