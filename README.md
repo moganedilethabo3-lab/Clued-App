@@ -49,19 +49,15 @@ People are exposed to lots of unverified life hacks and advice online, making it
 <li> Step 7:Click on "Back to home" to reselect a quiz topic.</li>
 
 <h1>App Installation</h1>
+<ul style="list-style-type: square;">
 <li>Step 1: Clone the repository:</li>
-<ul style="list-style-type: circle;">
-  <li>git clone https:</li>
-</ul>
+  git clone https:
 <li>Step 2: Import the app project folder into Android Studio.</li>
 <li>Step 3: Allow Gradle to sync</li>
-<li>Step 4: Run the app on: </li>
-  <ul style="list-style-type: circle;">
-  <li>an emulator</li>
+<li>Step 4: Run the app on:an emulator or on a Physical Android device </li>
 </ul>
- <ul style="list-style-type: circle;">
-  <li>Physical Android device</li>
-</ul> 
+  
+ 
 
 <h1>Tech Stack</h1>
 <li>Language: Kotlin</li>
@@ -71,14 +67,15 @@ People are exposed to lots of unverified life hacks and advice online, making it
 
 
 <h1>Tools Used</h1>
-<li>Android Studio</li>
-<li>Google Gemini</li>
+<h3>Android Studio</h3>
+<h3>Google Gemini</h3>
 <ul style="list-style-type: circle;">
  <li>Gemini was used as a development aid to assist with debugging, improving code structure, and enhancing UI animation components.</li>
 </ul>
 
 <h1>Acknowledgements</h1>
 A small portion of the app’s code was created with assistance from Google Gemini.
+
 <h1> Version Control Purpose(GitHub)</h1>
 Version control was handled using GitHub, with a repository created in github to manage the project. Regular commits were made regurarly to keep record of the updated code. Thus,enabling progress tracking.
 
@@ -87,18 +84,26 @@ It was used performs the following steps:
 <ul style="list-style-type: square;">
 <li>Sets up the Java environment</li>
 <li>Builds the android project using Gradle</li>
-<li></li>Confirms the app compiles successfully</ul>
+<li>Confirms the app compiles successfully</li>
 </ul>
 
 <h1>App Testing</h1>
-<li>Manual Testing</li>
+<h3>Manual Testing</h3>
 <ul style="list-style-type: circle;">
   <li>All features were tested manually within the app. Different input combinations were checked. Invalid inputs were handled appropriately. Android Logcat was used to debug errors</li>
 </ul>
-<li>Automated Testing</li>
+<h3>Automated Testing</h3>
 <ul style="list-style-type: circle;">
   <li>GitHub Actions was used to automatically build the app on each push. This verifies that the project compiles successfully at all times</li>
 </ul>
+<h1>Screenshots</h1>
+
+<h1>onclusion</h1>
+
+<h1> References</h1>
+<i>Google. 2026. Gemini (AI assistant). [Software] Available at: https://ai.google.dev/ [Accessed 3 April 2026].</i>
+
+<i>OpenAI. 2026. ChatGPT (GPT-5.3). [Large language model]. Available at: https://chat.openai.com [Accessed 3 April 2026].</i>
 
 
 
