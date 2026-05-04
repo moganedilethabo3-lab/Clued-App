@@ -46,7 +46,7 @@ People are exposed to lots of unverified life hacks and advice online, making it
  <li> Step 4: Click "Submit".</li>
 <li> Step 5: View quiz results.</li>
 <li> Step 6: Click on "Review Answers" to Review quiz answers supported by explanations. </li>
-<li> Step 7:Click on "Back to home" to reselect a quiz topic.</li>
+<li> Step 7: Click on "Back to home" to reselect a quiz topic.</li>
 
 <h1>App Installation</h1>
 <ul style="list-style-type: square;">
@@ -96,16 +96,21 @@ It was used performs the following steps:
 <ul style="list-style-type: circle;">
   <li>GitHub Actions was used to automatically build the app on each push. This verifies that the project compiles successfully at all times</li>
 </ul>
-<h1>Screenshots</h1>
 
 <h1>Conclusion</h1>
+
 Clued uses interactive quizzes with instant feedback to help users tell myths from real life hacks. It encourages critical thinking and better decision-making.
 
 
 <h1> References</h1>
+<img width="250" height="250" alt="clued_icon" src="https://github.com/user-attachments/assets/3de848fb-2e95-4d06-a123-7b756635e457" />v
 <i>Google. 2026. Gemini (AI assistant). [Software] Available at: https://ai.google.dev/ [Accessed 3 April 2026].</i>
 
 <i>OpenAI. 2026. ChatGPT (GPT-5.3). [Large language model]. Available at: https://chat.openai.com [Accessed 3 April 2026].</i>
+
+
+
+
 
 
 
