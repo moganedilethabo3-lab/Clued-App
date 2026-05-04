@@ -63,8 +63,42 @@ People are exposed to lots of unverified life hacks and advice online, making it
   <li>Physical Android device</li>
 </ul> 
 
+<h1>Tech Stack</h1>
+<li>Language: Kotlin</li>
+<li>Platform: Android Studio</li>
+<li>UI: XML / ConstraintLayout</li>
+<li>Build System: Gradle</li>
 
 
+<h1>Tools Used</h1>
+<li>Android Studio</li>
+<li>Google Gemini</li>
+<ul style="list-style-type: circle;">
+ <li>Gemini was used as a development aid to assist with debugging, improving code structure, and enhancing UI animation components.</li>
+</ul>
+
+<h1>Acknowledgements</h1>
+A small portion of the app’s code was created with assistance from Google Gemini.
+<h1> Version Control Purpose(GitHub)</h1>
+Version control was handled using GitHub, with a repository created in github to manage the project. Regular commits were made regurarly to keep record of the updated code. Thus,enabling progress tracking.
+
+<h1>What GitHub Actions was used for:</h1>
+It was used performs the following steps:
+<ul style="list-style-type: square;">
+<li>Sets up the Java environment</li>
+<li>Builds the android project using Gradle</li>
+<li></li>Confirms the app compiles successfully</ul>
+</ul>
+
+<h1>App Testing</h1>
+<li>Manual Testing</li>
+<ul style="list-style-type: circle;">
+  <li>All features were tested manually within the app. Different input combinations were checked. Invalid inputs were handled appropriately. Android Logcat was used to debug errors</li>
+</ul>
+<li>Automated Testing</li>
+<ul style="list-style-type: circle;">
+  <li>GitHub Actions was used to automatically build the app on each push. This verifies that the project compiles successfully at all times</li>
+</ul>
 
 
 
